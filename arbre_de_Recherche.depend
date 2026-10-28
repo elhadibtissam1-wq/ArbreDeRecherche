@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1793183514 source:c:\users\pc\desktop\bouziri\arbre_de_recherche\main.cpp
+	<iostream>
+	<map>
+	<vector>
+	<chrono>
+	<iomanip>
+	<string>
+
